@@ -2,36 +2,28 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[Facebook – log in or sign up]]>
+      <![CDATA[Hello]]>
     </line>
     <line>
-      <![CDATA[https://en-gb.facebook.com/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjI3NTM2ODYyLCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D]]>
+      <![CDATA[Good Evening]]>
     </line>
   </reporter-output>
-  <suite started-at="2021-07-29T11:04:00 IST" name="Default suite" finished-at="2021-07-29T11:04:34 IST" duration-ms="34336">
+  <suite started-at="2021-08-22T22:24:24 IST" name="Default suite" finished-at="2021-08-22T22:24:24 IST" duration-ms="191">
     <groups>
     </groups>
-    <test started-at="2021-07-29T11:04:00 IST" name="Default test" finished-at="2021-07-29T11:04:34 IST" duration-ms="34336">
-      <class name="testng.Testcase1">
-        <test-method is-config="true" signature="OpenApp()[pri:0, instance:testng.Testcase1@1cbb87f3]" started-at="2021-07-29T11:04:00 IST" name="OpenApp" finished-at="2021-07-29T11:04:21 IST" duration-ms="20916" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- OpenApp -->
-        <test-method signature="login()[pri:0, instance:testng.Testcase1@1cbb87f3]" started-at="2021-07-29T11:04:21 IST" name="login" finished-at="2021-07-29T11:04:32 IST" duration-ms="11227" status="PASS">
+    <test started-at="2021-08-22T22:24:24 IST" name="Default test" finished-at="2021-08-22T22:24:24 IST" duration-ms="191">
+      <class name="testng.Test0">
+        <test-method signature="demo()[pri:0, instance:testng.Test0@732c2a62]" started-at="2021-08-22T22:24:24 IST" name="demo" finished-at="2021-08-22T22:24:24 IST" duration-ms="17" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Facebook – log in or sign up]]>
+              <![CDATA[Hello]]>
             </line>
             <line>
-              <![CDATA[https://en-gb.facebook.com/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNjI3NTM2ODYyLCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D]]>
+              <![CDATA[Good Evening]]>
             </line>
           </reporter-output>
-        </test-method> <!-- login -->
-        <test-method is-config="true" signature="CloseApp()[pri:0, instance:testng.Testcase1@1cbb87f3]" started-at="2021-07-29T11:04:32 IST" name="CloseApp" finished-at="2021-07-29T11:04:34 IST" duration-ms="2122" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- CloseApp -->
-      </class> <!-- testng.Testcase1 -->
+        </test-method> <!-- demo -->
+      </class> <!-- testng.Test0 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
